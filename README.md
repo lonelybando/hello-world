@@ -1,3 +1,3 @@
 # hello-world
 repository
-#LocalsOny till i die.
+#LocalsOnly till i die.
